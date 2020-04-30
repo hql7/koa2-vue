@@ -1,0 +1,31 @@
+.DS_Store
+node_modules
+/dist
+vue.config.js
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+node_modules
+node_modules/
+vue-width-koa/node_modules
+vue-width-koa/node_modules/
+koa-server/node_modules/
+koa-server/node_modules/
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+vue.config.js
+vue.config.js
+src/api/__test__.js
+commitlint.config.js
+package.json
